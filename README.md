@@ -22,5 +22,5 @@ I build interactive, responsive, and performance-focused web experiences.
 ---
 
 ## Connect with me
-- LinkedIn: https://linkedin.com/in/yourlink
+- LinkedIn: linkedin.com/in/kanika-sharma-b1306728b
 - GitHub: https://github.com/kanithecder89
