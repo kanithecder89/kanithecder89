@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Kanika Sharma 
 
-<!--
-**kanithecder89/kanithecder89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer skilled in React, Three.js, and UI/UX design.  
+I build interactive, responsive, and performance-focused web experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- HTML, CSS, JavaScript
+- React, Three.js
+- UI/UX (Figma)
+- Python, NLP
+
+---
+
+##  Featured Projects
+- Three.js Solar System
+- Ozone Space Landing Page (Internship Work)
+- AI Study Assistant
+-  Blinkit UI Clone
+
+---
+
+## Connect with me
+- LinkedIn: https://linkedin.com/in/yourlink
+- GitHub: https://github.com/kanithecder89
